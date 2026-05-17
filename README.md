@@ -61,7 +61,7 @@ Cloud OS Intelligence explores a different direction:
 
 - **Observability**
 - **Prompt Engineering**
-- **LLMs**(LMMs)**-assisted interpretation**
+- **AI-assisted interpretation**
 - **Grafana dashboards**
 - **Structured operational context**
 
