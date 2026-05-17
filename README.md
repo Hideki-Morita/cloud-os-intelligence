@@ -194,10 +194,6 @@ Cloud OS Intelligence is currently an experimental concept and architecture proj
 
 ---
 
-<br>
-
-## Just ASK.
-
 ![image](./screenshots/Cloud_OS_Intelligence_Intro-Cover.jpg)
 
 ---
