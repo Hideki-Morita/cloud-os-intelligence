@@ -116,8 +116,6 @@ The interface is **intentionally simple**.
 
 <br>
 
-[Architecture Diagram Here]
-
 Cloud OS Intelligence separates:
 
 - Interface orchestration
@@ -126,7 +124,7 @@ Cloud OS Intelligence separates:
 - Operational context
 - Structured knowledge generation
 
-This architecture allows Cloud OS Intelligence to maintain stable and **domain-focused responses**. 
+This architecture allows Cloud OS Intelligence to maintain stable and **domain-focused responses**.  
 Cloud OS is designed as a <u>specialized operational intelligence interface</u> for cloud environments — not a general-purpose AI assistant.
 
 ---
