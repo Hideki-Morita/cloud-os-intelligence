@@ -1,5 +1,7 @@
 # Cloud OS Intelligence
 
+<br>
+
 Understand your AWS cloud through natural language.
 
 ![image](./screenshots/Cloud_OS_Intelligence.jpg)
@@ -33,6 +35,8 @@ Cloud OS focuses on:
 
 ## Philosophy
 
+<br>
+
 Modern cloud systems became extremely powerful.
 
 At the same time:
@@ -50,6 +54,8 @@ Cloud OS explores a different direction:
 <br>
 
 ## Concept
+
+<br>
 
 Cloud OS combines:
 
@@ -69,6 +75,8 @@ The goal is to make cloud systems more understandable for everyone.
 
 ## Experience Design
 
+<br>
+
 Cloud OS follows a Zen-style interface philosophy:
 
 - Minimal interaction
@@ -87,7 +95,9 @@ Because complexity already exists inside the system.
 
 ## ASK
 
-[ASK UI Screenshot Here]
+<br>
+
+![image](./screenshots/Cloud_OS_Intelligence_interface.png)
 
 Instead of:
 
@@ -134,7 +144,9 @@ This architecture allows Cloud OS to maintain stable and domain-focused response
 
 ### Concept Movie
 
-[Movie GIF or Video Link]
+![image](./screenshots/Cloud_OS_Intelligence_Intro-Cover.jpg)
+
+[movie](./movie/Cloud_OS_Intelligence_Intro.mov)
 
 The Cloud OS concept movie represents the core idea behind the project:
 
