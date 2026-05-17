@@ -6,28 +6,28 @@ Understand your AWS cloud through natural language.
 
 ![image](./screenshots/Cloud_OS_Intelligence.jpg)
 
-> The system evolved.  
-> The interface did not.
+> <mark>**The system evolved.**</mark>  
+> **The interface did not.**
 
 ---
 
 <br>
 
-## What is Cloud OS?
+## What is Cloud OS Intelligence?
 
 <br>
 
-Cloud OS is a concept-driven observability interface designed to help people understand cloud systems through natural language.
+Cloud OS Intelligence is a **concept-driven observability interface** designed to help people <u>**understand cloud systems through natural language**</u>.
 
-Instead of navigating complex dashboards, APIs, and operational layers, users interact with cloud environments through a simplified conversational interface.
+Instead of navigating complex `dashboards`, `APIs`, and `operational layers`, users interact with cloud environments through a simplified conversational interface.
 
-Cloud OS focuses on:
+- Cloud OS Intelligence focuses on:
 
-- Understanding over operation
-- Natural language interaction
-- Domain-bounded intelligence
-- Deterministic system behavior
-- Human-centered observability
+  - Understanding over operation
+  - Natural language interaction
+  - Domain-bounded intelligence
+  - Deterministic system behavior
+  - Human-centered observability
 
 ---
 
@@ -37,15 +37,15 @@ Cloud OS focuses on:
 
 <br>
 
-Modern cloud systems became extremely powerful.
+>**Modern cloud systems became extremely powerful.**
 
-At the same time:
+- At the same time:
 
-- architectures became distributed
-- operational knowledge became fragmented
-- interfaces remained engineer-centric
+  - architectures became distributed
+  - operational knowledge became fragmented
+  - interfaces remained engineer-centric
 
-Cloud OS explores a different direction:
+Cloud OS Intelligence explores a different direction:
 
 > What if cloud systems could explain themselves?
 
@@ -57,17 +57,17 @@ Cloud OS explores a different direction:
 
 <br>
 
-Cloud OS combines:
+> Cloud OS Intelligence combines:
 
-- Observability
-- Prompt Engineering
-- AI-assisted interpretation
-- Grafana dashboards
-- Structured operational context
+- **Observability**
+- **Prompt Engineering**
+- **LLMs**(LMMs)**-assisted interpretation**
+- **Grafana dashboards**
+- **Structured operational context**
 
 The goal is not to replace engineers.
 
-The goal is to make cloud systems more understandable for everyone.
+>>The goal is **to make cloud systems more understandable for everyone.**
 
 ---
 
@@ -77,17 +77,17 @@ The goal is to make cloud systems more understandable for everyone.
 
 <br>
 
-Cloud OS follows a Zen-style interface philosophy:
+Cloud OS Intelligence follows a <mark>**Zen-style**</mark> interface philosophy:
 
-- Minimal interaction
-- Reduced operational complexity
-- Focused system boundaries
-- Calm visual design
-- Deterministic responses
+- ✅ **Minimal interaction**
+- ✅ **Reduced operational complexity**
+- ✅ **Focused system boundaries**
+- ✅ **Calm visual design**
+- ✅ **Deterministic responses**
 
-The interface is intentionally simple.
+The interface is **intentionally simple**.
 
-Because complexity already exists inside the system.
+>>**Because complexity already exists inside the system.**
 
 ---
 
@@ -97,16 +97,16 @@ Because complexity already exists inside the system.
 
 <br>
 
-![image](./screenshots/Cloud_OS_Intelligence_interface.png)
+![image](./screenshots/Cloud_OS_Intelligence_Interface.png)
 
-Instead of:
+- Instead of:
 
-- APIs
-- Query languages
-- Dashboard hunting
-- Infrastructure terminology
+  - 🚫 APIs
+  - 🚫 Query languages
+  - 🚫 Dashboard hunting
+  - 🚫 Infrastructure terminology
 
-Users simply ASK.
+>>**Users simply ASK.**
 
 ---
 
@@ -114,9 +114,11 @@ Users simply ASK.
 
 ## Architecture Overview
 
+<br>
+
 [Architecture Diagram Here]
 
-Cloud OS separates:
+Cloud OS Intelligence separates:
 
 - Interface orchestration
 - Prompt construction
@@ -124,13 +126,16 @@ Cloud OS separates:
 - Operational context
 - Structured knowledge generation
 
-This architecture allows Cloud OS to maintain stable and domain-focused responses.
+This architecture allows Cloud OS Intelligence to maintain stable and **domain-focused responses**. 
+Cloud OS is designed as a <u>specialized operational intelligence interface</u> for cloud environments — not a general-purpose AI assistant.
 
 ---
 
 <br>
 
 ### Screenshots
+
+<br>
 
 [Dashboard Screenshot]
 
@@ -144,14 +149,14 @@ This architecture allows Cloud OS to maintain stable and domain-focused response
 
 ### Concept Movie
 
-![image](./screenshots/Cloud_OS_Intelligence_Intro-Cover.jpg)
+<br>
 
-[movie](./movie/Cloud_OS_Intelligence_Intro.mov)
+[🍿**movie**](./movie/Cloud_OS_Intelligence_Intro.mov)
 
-The Cloud OS concept movie represents the core idea behind the project:
+The Cloud OS Intelligence concept movie represents the core idea behind the project:
 
-> Not APIs.  
-> But Natural Language.
+> **Not APIs.**  
+> <mark>**But Natural Language.**</mark>
 
 ---
 
@@ -159,15 +164,17 @@ The Cloud OS concept movie represents the core idea behind the project:
 
 ## Vision
 
-Cloud OS is currently being explored as a next-generation operational interface for AWS observability environments.
+<br>
 
-Potential future directions include:
+Cloud OS Intelligence is currently being explored as a **next-generation operational interface** for <u>AWS observability environments</u>.
 
-- Municipal cloud operations
-- AI-assisted observability
-- Drift intelligence
-- Operational knowledge systems
-- Human-centered cloud interfaces
+- Potential future directions include:
+
+  - Municipal cloud operations
+  - AI-assisted observability
+  - Drift intelligence
+  - Operational knowledge systems
+  - Human-centered cloud interfaces
 
 ---
 
@@ -175,15 +182,17 @@ Potential future directions include:
 
 ## Status
 
-Cloud OS is currently an experimental concept and architecture project.
+<br>
 
-This repository exists to document:
+Cloud OS Intelligence is currently an experimental concept and architecture project.
 
-- Product vision
-- UX direction
-- Interface philosophy
-- Architecture concepts
-- Development history
+- **This repository exists** to document:
+
+  - **Product vision**
+  - **UX direction**
+  - **Interface philosophy**
+  - **Architecture concepts**
+  - **Development history**
 
 ---
 
@@ -191,6 +200,6 @@ This repository exists to document:
 
 ## Just ASK.
 
-[Ending Image Here]
+![image](./screenshots/Cloud_OS_Intelligence_Intro-Cover.jpg)
 
 ---
