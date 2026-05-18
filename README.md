@@ -44,7 +44,12 @@ Instead of navigating complex `dashboards`, `APIs`, and `operational layers`, us
   - architectures became distributed
   - operational knowledge became fragmented
   - interfaces remained engineer-centric
-    - ![image](./screenshots/on-prem-vs-cloud.png)
+  - 
+    |On-prem - Cloud|
+    |---|
+    | ![image](./screenshots/on-prem-vs-cloud.png) |
+
+<br>
 
 Cloud OS Intelligence explores a different direction:
 
