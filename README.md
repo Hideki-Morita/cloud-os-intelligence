@@ -2,7 +2,7 @@
 
 <br>
 
-Understand your AWS cloud through natural language.
+><mark>**Understand your AWS cloud through natural language.**</mark>
 
 ![image](./screenshots/Cloud_OS_Intelligence.jpg?featherlight=false)
 
