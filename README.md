@@ -131,22 +131,8 @@ Cloud OS Intelligence separates:
 - Structured knowledge generation
 
 This architecture allows Cloud OS Intelligence to maintain stable and **domain-focused responses**.  
-Cloud OS is designed as a <u>specialized operational intelligence interface</u> for cloud environments -    
+Cloud OS is designed as a <u>**specialized operational intelligence interface**</u> for cloud environments -   
 NOT a general-purpose AI assistant.
-
----
-
-<br>
-
-### Screenshots
-
-<br>
-
-[Dashboard Screenshot]
-
-[Typing Scene Screenshot]
-
-[Movie Ending Screenshot]
 
 ---
 
