@@ -4,7 +4,7 @@
 
 Understand your AWS cloud through natural language.
 
-![image](./screenshots/Cloud_OS_Intelligence.jpg)
+![image](./screenshots/Cloud_OS_Intelligence.jpg?featherlight=false)
 
 > <mark>**The system evolved.**</mark>  
 > **The interface did not.**
@@ -23,11 +23,11 @@ Instead of navigating complex `dashboards`, `APIs`, and `operational layers`, us
 
 - Cloud OS Intelligence focuses on:
 
-  - Understanding over operation
-  - Natural language interaction
-  - Domain-bounded intelligence
-  - Deterministic system behavior
-  - Human-centered observability
+  - **Understanding over operation**
+  - **Natural language interaction**
+  - **Domain-bounded intelligence**
+  - **Deterministic system behavior**
+  - **Human-centered observability**
 
 ---
 
@@ -44,10 +44,11 @@ Instead of navigating complex `dashboards`, `APIs`, and `operational layers`, us
   - architectures became distributed
   - operational knowledge became fragmented
   - interfaces remained engineer-centric
+    - ![image](./screenshots/on-prem-vs-cloud.png)
 
 Cloud OS Intelligence explores a different direction:
 
-> What if cloud systems could explain themselves?
+> <mark>**What if cloud systems could explain themselves?**</mark>
 
 ---
 
@@ -93,11 +94,11 @@ The interface is **intentionally simple**.
 
 <br>
 
-## ASK
+## The interface
 
 <br>
 
-![image](./screenshots/Cloud_OS_Intelligence_Interface.png)
+![image](./screenshots/Cloud_OS_Intelligence_Interface.png?featherlight=false)
 
 - Instead of:
 
@@ -125,7 +126,8 @@ Cloud OS Intelligence separates:
 - Structured knowledge generation
 
 This architecture allows Cloud OS Intelligence to maintain stable and **domain-focused responses**.  
-Cloud OS is designed as a <u>specialized operational intelligence interface</u> for cloud environments — not a general-purpose AI assistant.
+Cloud OS is designed as a <u>specialized operational intelligence interface</u> for cloud environments -    
+NOT a general-purpose AI assistant.
 
 ---
 
