@@ -142,7 +142,7 @@ NOT a general-purpose AI assistant.
 
 <br>
 
-[![🍿**watch the movie**](./screenshots/Cloud_OS_Intelligence_Intro-Cover.jpg)](https://raw.githubusercontent.com/Hideki-Morita/cloud-os-intelligence/main/movie/Cloud_OS_Intelligence_Intro.mov)
+[![🍿**watch the movie**](./screenshots/Cloud_OS_Intelligence_Intro-Cover.jpg)](https://github.com/user-attachments/assets/ba98af7c-c70d-4217-8dab-537428d72337)
 
 The Cloud OS Intelligence concept movie represents the core idea behind the project:
 
