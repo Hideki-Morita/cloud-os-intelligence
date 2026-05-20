@@ -138,6 +138,20 @@ NOT a general-purpose AI assistant.
 
 <br>
 
+### Cloud OS Business Ecosystem
+
+<br>
+
+Cloud OS follows a common software platform model:
+
+- platform ownership, licensing, optional specialist support,
+- and value creation through solution providers.
+  - [Detail](./screenshots/Cloud_OS_Business_Ecosystem_with_logo.png) 
+
+---
+
+<br>
+
 ### Concept Movie
 
 <br>
@@ -187,6 +201,11 @@ Cloud OS Intelligence is currently an experimental concept and architecture proj
 
 ---
 
+<br>
+
+## Logo
+
 ![image](./screenshots/Cloud_OS_Intelligence_Intro-Cover.jpg)
 
+---
 ---
