@@ -3,6 +3,7 @@
 <br>
 
 ><mark>**Understand your AWS cloud through natural language.**</mark>
+>>Next-generation operational intelligence interface concept.
 
 ![image](./screenshots/Cloud_OS_Intelligence.jpg?featherlight=false)
 
