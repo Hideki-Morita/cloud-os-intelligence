@@ -64,7 +64,8 @@ Cloud OS Intelligence explores a different direction:
 
 <br>
 
-> Cloud OS Intelligence combines:
+> Built on Grafana.
+>> **Cloud OS Intelligence combines:**
 
 - **Observability**
 - **Prompt Engineering**
@@ -75,6 +76,17 @@ Cloud OS Intelligence explores a different direction:
 The goal is not to replace engineers.
 
 >>The goal is **to make cloud systems more understandable for everyone.**
+
+<br>
+
+Also, Cloud OS Intelligence **is not a standalone AI product**.
+
+Its intelligence is built upon:
+
+- real systems,
+- real telemetry,
+- real observability engineering,
+- and real operational knowledge.
 
 ---
 
@@ -131,9 +143,8 @@ Cloud OS Intelligence separates:
 - Operational context
 - Structured knowledge generation
 
-This architecture allows Cloud OS Intelligence to maintain stable and **domain-focused responses**.  
-Cloud OS is designed as a <u>**specialized operational intelligence interface**</u> for cloud environments -   
-NOT a general-purpose AI assistant.
+This architecture allows Cloud OS Intelligence to maintain stable and <mark>**domain-focused responses**</mark>.  
+Cloud OS is designed as a <u>**specialized operational intelligence interface**</u> for cloud environments - NOT a general-purpose AI assistant.
 
 ---
 
