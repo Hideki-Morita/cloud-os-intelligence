@@ -3,7 +3,7 @@
 <br>
 
 ><mark>**Understand your AWS cloud through natural language.**</mark>
->>Next-generation operational intelligence interface concept.
+>>Next-generation operational intelligence interface.
 
 ![image](./screenshots/Cloud_OS_Intelligence.jpg?featherlight=false)
 
@@ -14,11 +14,25 @@
 
 <br>
 
+## Contents
+
+- [What is Cloud OS Intelligence?](#what-is-cloud-os-intelligence)
+- [Philosophy](#philosophy)
+- [Concept](#concept)
+- [Experience Design](#experience-design)
+- [Architecture Overview](#architecture-overview)
+- [Vision](#vision)
+- [Status](#status)
+
+---
+
+<br>
+
 ## What is Cloud OS Intelligence?
 
 <br>
 
-Cloud OS Intelligence is a **concept-driven observability interface** designed to help people <u>**understand cloud systems through natural language**</u>.
+Cloud OS Intelligence is an **operational intelligence interface** built on **observability** and **natural language interaction**.
 
 Instead of navigating complex `dashboards`, `APIs`, and `operational layers`, users interact with cloud environments through a simplified conversational interface.
 
@@ -146,8 +160,10 @@ Cloud OS Intelligence separates:
 - Operational context
 - Structured knowledge generation
 
-This architecture allows Cloud OS Intelligence to maintain stable and <mark>**domain-focused responses**</mark>.  
-Cloud OS is designed as a <u>**specialized operational intelligence interface**</u> for cloud environments - NOT a general-purpose AI assistant.
+This architecture allows Cloud OS Intelligence to maintain stable and <mark>**domain-focused responses**</mark>.
+
+Cloud OS is designed as a specialized operational intelligence interface for cloud environments —  
+NOT a general-purpose AI assistant.
 
 ---
 
@@ -186,15 +202,23 @@ The Cloud OS Intelligence concept movie represents the core idea behind the proj
 
 <br>
 
-Cloud OS Intelligence is currently being explored as a **next-generation operational interface** for <u>AWS observability environments</u>.
+Cloud OS aims to become a **next-generation operational intelligence interface** for complex cloud environments.
 
-- Potential future directions include:
+The goal is not simply to visualize systems.
 
-  - Municipal cloud operations
-  - AI-assisted observability
-  - Drift intelligence
-  - Operational knowledge systems
-  - Human-centered cloud interfaces
+The goal is to help humans:
+
+- **SEE** operational signals
+- **KNOW** related context
+- **UNDERSTAND** what matters
+- **GET** meaningful guidance
+- and continuously **LEARN** through interaction
+
+Cloud OS is designed to transform:
+
+- telemetry into understanding,
+- dashboards into operational knowledge,
+- and complexity into clarity.
 
 ---
 
