@@ -88,6 +88,9 @@ Its intelligence is built upon:
 - real observability engineering,
 - and real operational knowledge.
 
+>> Built on reality.  
+[Learn more about the Cloud OS understanding stack.](./screenshots/Cloud_OS_Telemetry_Stack.png)
+
 ---
 
 <br>
