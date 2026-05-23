@@ -165,6 +165,8 @@ This architecture allows Cloud OS Intelligence to maintain stable and <mark>**do
 Cloud OS is designed as a specialized operational intelligence interface for cloud environments —  
 NOT a general-purpose AI assistant.
 
+![image](./screenshots/Cloud_OS_Intelligence_Boundary.png?featherlight=false)
+
 ---
 
 <br>
@@ -175,9 +177,8 @@ NOT a general-purpose AI assistant.
 
 Cloud OS follows a common software platform model:
 
-- platform ownership, licensing, optional specialist support,
-- and value creation through solution providers.
-  - [Detail](./screenshots/Cloud_OS_Business_Ecosystem_with_logo.png) 
+- platform ownership, licensing, optional specialist support, and value creation through solution providers.
+  - [Learn more about the Cloud OS Business Ecosystem.](./screenshots/Cloud_OS_Business_Ecosystem_with_logo.png?featherlight=false) 
 
 ---
 
@@ -213,6 +214,10 @@ The goal is to help humans:
 - **UNDERSTAND** what matters
 - **GET** meaningful guidance
 - and continuously **LEARN** through interaction
+
+![image](./screenshots/Cloud_OS_Meaning_Loop.png?featherlight=false) 
+
+<br>
 
 Cloud OS is designed to transform:
 
