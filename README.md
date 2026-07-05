@@ -1,4 +1,4 @@
-# Cloud OS Intelligence
+# 🔻Cloud OS Intelligence
 
 <br>
 
@@ -28,7 +28,7 @@
 
 <br>
 
-## What is Cloud OS Intelligence?
+## 🔻What is Cloud OS Intelligence?
 
 <br>
 
@@ -48,7 +48,7 @@ Instead of navigating complex `dashboards`, `APIs`, and `operational layers`, us
 
 <br>
 
-## Philosophy
+## 🔻Philosophy
 
 <br>
 
@@ -74,7 +74,7 @@ Cloud OS Intelligence explores a different direction:
 
 <br>
 
-## Concept
+## 🔻Concept
 
 <br>
 
@@ -109,7 +109,7 @@ Its intelligence is built upon:
 
 <br>
 
-## Experience Design
+## 🔻Experience Design
 
 <br>
 
@@ -120,6 +120,7 @@ Cloud OS Intelligence follows a <mark>**Zen-style**</mark> interface philosophy:
 - ✅ **Focused system boundaries**
 - ✅ **Calm visual design**
 - ✅ **Deterministic responses**
+  - Built-in Commands
 
 The interface is **intentionally simple**.
 
@@ -148,7 +149,7 @@ The interface is **intentionally simple**.
 
 <br>
 
-## Architecture Overview
+## 🔻Architecture Overview
 
 <br>
 
@@ -178,7 +179,8 @@ NOT a general-purpose AI assistant.
 Cloud OS follows a common software platform model:
 
 - platform ownership, licensing, optional specialist support, and value creation through solution providers.
-  - [Learn more about the Cloud OS Business Ecosystem.](./screenshots/Cloud_OS_Business_Ecosystem_with_logo.png?featherlight=false) 
+  1. [Learn more about the Cloud OS Business Ecosystem.](./screenshots/Cloud_OS_Business_Ecosystem_with_logo.png?featherlight=false)
+  2. [Learn more about Where Cloud OS Lives.](./screenshots/Cloud_OS_Where_Cloud_OS_Lives.png?featherlight=false) 
 
 ---
 
@@ -199,7 +201,7 @@ The Cloud OS Intelligence concept movie represents the core idea behind the proj
 
 <br>
 
-## Vision
+## 🔻Vision
 
 <br>
 
@@ -229,7 +231,7 @@ Cloud OS is designed to transform:
 
 <br>
 
-## Status
+## 🔻Status
 
 <br>
 
@@ -247,7 +249,7 @@ Cloud OS Intelligence is currently an experimental concept and architecture proj
 
 <br>
 
-## Logo
+## 🔻Logo
 
 ![image](./screenshots/Cloud_OS_Intelligence_Intro-Cover.jpg)
 
