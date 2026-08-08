@@ -172,6 +172,58 @@ NOT a general-purpose AI assistant.
 
 <br>
 
+### Investigation Model
+
+Cloud OS Intelligence does not answer questions by relying only on general AI knowledge.  
+Instead, every operational answer follows a deterministic investigation lifecycle.  
+
+```text
+👤 Question
+    │
+    ▼
+🔻 Root Overview
+    │
+    ▼
+👤 Capture
+    │
+    ▼
+🔻 Evidence
+    │
+    ▼
+🔻 Investigation
+    │
+    ▼
+🔻 Answer
+```
+
+For deeper investigations:
+
+```
+🔻 Root Evidence
+    │
+    ▼
+👤 Sub Topic
+    │
+    ▼
+🔻 Child Overview
+    │
+    ▼
+👤 Capture
+    │
+    ▼
+🔻 Child Evidence
+    │
+    ▼
+🔻 Reasoning
+```
+
+Cloud OS never assumes information that has not been observed.  
+Every operational conclusion is proportional to <mark>**the available evidence**</mark>.
+
+---
+
+<br>
+
 ### Cloud OS Business Ecosystem
 
 <br>
@@ -235,7 +287,26 @@ Cloud OS is designed to transform:
 
 <br>
 
-Cloud OS Intelligence is currently an experimental concept and architecture project.
+Current implementation includes:
+
+- **Investigation State Machine**
+- **Session-based operational context**
+- **Evidence-driven reasoning**
+- **Dashboard-first investigation workflow**
+- **Built-in operational commands**
+- **Live Context HUD**
+
+---
+
+<br>
+
+## 🔻Logo
+
+![image](./screenshots/Cloud_OS_Intelligence_Intro-Cover.jpg)
+
+<br>
+
+Cloud OS Intelligence is currently an architecture project.
 
 - **This repository exists** to document:
 
@@ -245,13 +316,6 @@ Cloud OS Intelligence is currently an experimental concept and architecture proj
   - **Architecture concepts**
   - **Development history**
 
----
-
-<br>
-
-## 🔻Logo
-
-![image](./screenshots/Cloud_OS_Intelligence_Intro-Cover.jpg)
 
 ---
 ---
