@@ -19,9 +19,9 @@
 - [What is Cloud OS Intelligence?](#what-is-cloud-os-intelligence)
 - [Philosophy](#philosophy)
 - [Concept](#concept)
+- [Vision](#vision)
 - [Experience Design](#experience-design)
 - [Architecture Overview](#architecture-overview)
-- [Vision](#vision)
 - [Status](#status)
 
 ---
@@ -104,6 +104,37 @@ Its intelligence is built upon:
 
 >> Built on reality.  
 [Learn more about the Cloud OS understanding stack.](./screenshots/Cloud_OS_Telemetry_Stack.png)
+
+
+---
+
+<br>
+
+## 🔻Vision
+
+<br>
+
+Cloud OS aims to become a **next-generation operational intelligence interface** for complex cloud environments.
+
+The goal is not simply to visualize systems.
+
+The goal is to help humans:
+
+- **SEE** operational signals
+- **KNOW** related context
+- **UNDERSTAND** what matters
+- **GET** meaningful guidance
+- and continuously **LEARN** through interaction
+
+![image](./screenshots/Cloud_OS_Meaning_Loop.png?featherlight=false) 
+
+<br>
+
+Cloud OS is designed to transform:
+
+- telemetry into understanding,
+- dashboards into operational knowledge,
+- and complexity into clarity.
 
 ---
 
@@ -248,36 +279,6 @@ The Cloud OS Intelligence concept movie represents the core idea behind the proj
 
 > **Not APIs.**  
 > <mark>**But Natural Language.**</mark>
-
----
-
-<br>
-
-## 🔻Vision
-
-<br>
-
-Cloud OS aims to become a **next-generation operational intelligence interface** for complex cloud environments.
-
-The goal is not simply to visualize systems.
-
-The goal is to help humans:
-
-- **SEE** operational signals
-- **KNOW** related context
-- **UNDERSTAND** what matters
-- **GET** meaningful guidance
-- and continuously **LEARN** through interaction
-
-![image](./screenshots/Cloud_OS_Meaning_Loop.png?featherlight=false) 
-
-<br>
-
-Cloud OS is designed to transform:
-
-- telemetry into understanding,
-- dashboards into operational knowledge,
-- and complexity into clarity.
 
 ---
 
