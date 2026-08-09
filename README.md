@@ -126,6 +126,8 @@ The goal is to help humans:
 - **GET** meaningful guidance
 - and continuously **LEARN** through interaction
 
+>> <mark>**DECIDE**</mark> and <mark>**ACT**</mark>, always by humans
+
 ![image](./screenshots/Cloud_OS_Meaning_Loop.png?featherlight=false) 
 
 <br>
